@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S24W9ConnectedModel", "S24W9ConnectedModel\S24W9ConnectedModel.csproj", "{E934B169-7F3F-40F4-98BE-43BE7D28F3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E934B169-7F3F-40F4-98BE-43BE7D28F3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E934B169-7F3F-40F4-98BE-43BE7D28F3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E934B169-7F3F-40F4-98BE-43BE7D28F3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E934B169-7F3F-40F4-98BE-43BE7D28F3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA71C71E-7057-4C4F-B803-818AE5B0F834}
+	EndGlobalSection
+EndGlobal
